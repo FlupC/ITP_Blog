@@ -16,7 +16,7 @@ You will see in the below pictures, I have mapped out a better (although flawed,
 
 I also spent some more time on the measurement project. I want to measure the output energy from my shower. Initially I had planned to use the "rainfall" part of the shower, but I think it makes more sense to create an attachment between the pipe and shower head that uses the full force of the water to rotate a motor.
 
-![Update 1](/../assets/energy/kinetic/ideation2)
+![Update 1](/../assets/energy/kinetic/ideation2.png)
 
 ## Faraday Spray Can
 
