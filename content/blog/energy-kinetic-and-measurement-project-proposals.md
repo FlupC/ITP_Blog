@@ -6,6 +6,18 @@ description: Project proposals for Energy Class, Spring 2021
 ---
 # Kinetic
 
+# Updated 2/22/21
+
+Please reference the below for concepts.
+
+Since then, I have done a bunch of research into materials and feasibility. I am beginning to understand exactly what happens with electromagnetic induction, but am still wrapping my head around how much voltage it can provide. I am hoping to hop into office hours to go over a few things related to materials. 
+
+You will see in the below pictures, I have mapped out a better (although flawed, I'm sure) picture of what the circuit may look like. I want to charge a capacitor with energy coming from Faraday's Law induction, then use the cap of the can as the "button" that will complete the circuit. This way, it can be charged up and stored for much longer than any other way. I still do not know a lot about capacitors, but I think we go over that this week. 
+
+I also spent some more time on the measurement project. I want to measure the output energy from my shower. Initially I had planned to use the "rainfall" part of the shower, but I think it makes more sense to create an attachment between the pipe and shower head that uses the full force of the water to rotate a motor.
+
+![Update 1](/../assets/energy/kinetic/ideation2.png)
+
 ## Faraday Spray Can
 
 I was looking through all of the kinetic energy conversion mechanisms and I was having a lot of issues with thinking of pieces with rotational energy. I just didn't have a lot of ideas. So, when I read about the faraday light, it was like a ~lightbulb~ went off. 
