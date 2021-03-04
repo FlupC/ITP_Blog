@@ -6,7 +6,44 @@ description: Project proposals for Energy Class, Spring 2021
 ---
 # Kinetic
 
-# Updated 2/22/21
+# Update 3/1/21
+
+I've made some good progress over the last week.
+
+### Kinetic
+First on the kinetic front, I have done the following things.
+
+* Took apart a laser pointer and stole the diode
+
+![Pointer Stripdown](/../assets/energy/kinetic/stripdown.jpg)
+
+* tested the diode in circuit
+
+![Diode in Circuit w 33ioT](/../assets/energy/kinetic/inCircuit.jpg)
+
+* Ripped apart a shake light
+* Pull out the contents, desoldered the original LED, soldered wires and the laser diode on
+
+![Solder](/../assets/energy/kinetic/capacitor.jpg)
+
+![Prototype](/../assets/energy/kinetic/prototype.JPG)
+
+* Tested the laser reactive vinyl
+
+`vimeo: https://vimeo.com/518353250`
+
+The biggest things I learned is that I am not producing enough voltage to power the UV diode enough to make an impact. I am outputting about 2.7 volts and need around 4 most likely. 
+
+I have ordered new spools and begun preliminary work on the housing. I am at a standstill until it arrives.
+
+The other thing I need to explore is a new capacitor. This one doesn't discharge all of its energy fast enough to get a nice feedback loop for users. 
+
+VIDEO
+
+### Measurement
+This was a bit rough. I printed this: https://www.thingiverse.com/thing:802284, but it failed for me. I am back to the drawing board unfortunately.
+
+# Update 2/22/21
 
 Please reference the below for concepts.
 
