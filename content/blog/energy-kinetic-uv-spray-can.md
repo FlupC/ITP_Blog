@@ -6,7 +6,9 @@ description: Kinetic Assignment, Spring 2021
 ---
 # Kinetic: UV Spray Can
 
-FINAL VIDEO:
+`vimeo: https://vimeo.com/524095368`
+
+`vimeo: https://vimeo.com/524095412`
 
 ### Concept
 
