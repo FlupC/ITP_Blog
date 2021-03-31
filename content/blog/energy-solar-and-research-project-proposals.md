@@ -12,7 +12,7 @@ However, there are certain things you can't replicate in those rooms, like uniqu
 
 I want people to experience these unique behaviors, so I came up with this:
 
-![Sunflower Concept](/../assets/energy/solar/sunflowerConcept.jpg)
+![Sunflower Concept](/../assets/energy/solar/sunflowerConcept.png)
 
 Basically, I want to use a small solar panel to build a box that can be mounted to your window. The solar panel will power a microcontroller that is connected to a light sensor. During the day, the microcontroller should be powered by the sun, but at night it will use a battery that is charged throughout the day. 
 
