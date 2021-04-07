@@ -90,18 +90,18 @@ I wanted to seal the wood and give it a sheen, so I wanted to use Polyurethane t
 
 As such, I used a shellac spray to just make it a bit smoothed, more sturdy, etc. 
 
-![Spray Setup](/../assets/fab/week02/finished1.jpg)
+![Spray Setup](/../assets/fab/week02/finish1.jpg)
 
 I let it dry, then it was painting time.
 
 First, I taped everything off so it wouldn't look messy (there was a little bleed), mixed the paint (1 part white, 1 part black for consistency), tested it, then put it on my wood. 
 
-![Taping](/../assets/fab/week02/finished2.jpg)
+![Taping](/../assets/fab/week02/finish2.jpg)
 
-![Test](/../assets/fab/week02/finished3.jpg)
+![Test](/../assets/fab/week02/finish3.jpg)
 
-![Spray Setup](/../assets/fab/week02/finished4.jpg)
+![Spray Setup](/../assets/fab/week02/finish4.jpg)
 
-![Painted Piece](/../assets/fab/week02/finished6.jpg)
+![Painted Piece](/../assets/fab/week02/finish6.jpg)
 
-![All Pieces](/../assets/fab/week02/finished5.jpg)
+![All Pieces](/../assets/fab/week02/finish5.jpg)
