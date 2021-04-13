@@ -6,6 +6,14 @@ description: Solar Prog Energy Class, Spring 2021
 ---
 # Solar Project:
 
+## Update 2 (Week11): Finished Solar Circuit
+
+This week I was able to set up my solar circuit. The arduino can be powered for a long period of time with just about 2 hours of GOOD sunlight. The solar charger works, and I have set up a light sensor that works, but I need to find a new one.
+
+This one isn't sensitive enough. It will basically be at max with a little bit of light, and 0 with not too much light. As such, it is just going to give all or nothing to the LEDs, making it nearly impossible for this to work. I cannot currently find anything that will work, I have already reached out to my cohort's discord.
+
+I have photos of all of this, but I got dumped the other day and am emotionally exhausted. I promise I will update them here when I'm feeling a little better.
+
 ## Update 1 (week10) : Slight Adjustments and Bill of Materials
 
 For this first update for this project is that I want to take it in a different direction. I decided to talk to some of my friends who do not have windows. They loved the idea of having a small plant that blooms by opening and closing, but said they'd rather just have real plants. 
