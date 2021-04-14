@@ -12,3 +12,18 @@ For this assignment I wanted to make some desks using the generative design func
 
 Admittedly, this wasn't a huge process. The main thing that happened is I tried to cancel the output partway through because I wanted to adjust the parameters, but I don't think it ever canceled and so the outputs were on my old version, but they looked quite nice! I am happy with this overall. I also included the weirdest output I got, which I assume is hollow. 
 
+### Solids and Parameters
+
+![Solids](/../assets/cad/week09/solids.PNG)
+
+![Parameters](/../assets/cad/week09/Materials.PNG)
+
+### Outputs
+
+![Output 1](/../assets/cad/week09/output1.PNG)
+
+![Output 2](/../assets/cad/week09/output2.PNG)
+
+![Output 3](/../assets/cad/week09/output3.PNG)
+
+![Output 4](/../assets/cad/week09/output4.PNG)
