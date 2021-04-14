@@ -16,6 +16,6 @@ For this class, the main deliverable will be the CNC CAM work, but I am hopeful 
 
 ![Main](/../assets/cad/week09/main.jpg)
 
-![Solids](/../assets/cad/week09/cork.jpg)
+![Cork](/../assets/cad/week09/cork.jpg)
 
-![Solids](/../assets/cad/week09/ring.jpg)
+![Ring](/../assets/cad/week09/ring.jpg)
