@@ -14,8 +14,8 @@ I will be using a machinable cork and plastic to make a grow light that is in a 
 
 For this class, the main deliverable will be the CNC CAM work, but I am hopeful to reach out to Ben and get a tutorial on making it a reality. 
 
-![Main](/../assets/cad/week09/main.jpg)
+![Main](/../assets/cad/week10/main.jpg)
 
-![Cork](/../assets/cad/week09/cork.jpg)
+![Cork](/../assets/cad/week10/cork.jpg)
 
-![Ring](/../assets/cad/week09/ring.jpg)
+![Ring](/../assets/cad/week10/ring.jpg)
