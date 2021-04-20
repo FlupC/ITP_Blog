@@ -1,0 +1,38 @@
+---
+path: energy-research
+date: 2021-04-17T18:36:02.291Z
+title: "Energy: Research Project"
+description: Research Secondary Project for Energy, Feddersen 2021
+---
+# Research Project
+
+## Topic 1: Chemosynthesis
+
+In the world as we know it, the energy used to support organic life travels up a food chain beginning with primary autotrophic producers. These organisms use the light from the sun to generate energy and grow. This process is known as Photosynthesis.
+
+Photosynthesis is possible by "the absorption of light by pigments in the thylakoid membranes inside bacterial and plant chloroplasts." (Smil, 45). Surprisingly though, the actual efficiency of this process is quite poor. That said, the process is able to energize enough food for the plant to feed itself. When there is less light, however, it becomes harder for plants to metabolize the sun's rays. There are, of course, plants that have adapted to this, but with the improper amount of sun, plants would not be able to use this process to thrive. Our world is completely penetrated by light from the sun. In most cases, there is more than enough light to aid photosynthesis, despite the inefficiency of the natural process. But what happens in a deep environment with no light? 
+
+Much of the ocean life we perceive follow the same rules as on land. Within the top layer of the ocean, millions of microorganisms called Phytoplankton grow with photosynthesis and feed a vast variety of shallow life. In this way, they can function as our primary producers. There is, of course, other marine life that can photosynthesize (some sea slugs, algae, and more). However, as we go under water, light cannot penetrate as deep. 
+
+IMAGE HERE
+
+As explained by Smil in his book, Energy, photosynthesis is best energized by a combination of blue and red light. As you can see in the graphic above, red light penetrates the shallowest. Often, you will lose red light after the first 30 feet of water. Additionally, things like thermoclines (a sudden, steep temperature drop as water gets deeper, often due to a change in how much the water is warmed by the sun) can inhibit photosynthesis. All this is to say that by the time we reach 100-200m deep, we can lose all visible light, entering into what we know as the Bathypelagic (twilight) zone. But the ocean goes deeper, with both abyssopelagic and hadalpelagic zones. So how do ecosystems thrive here?
+
+For the longest time, we knew very little about what occurs deep in the ocean. When we first started to explore the deep, scientists discovered a lot of scavenger type organisms that would wait for marine life to die, and sink to the bottom of the ocean as it begins to decay. This is very true, but within the most recent discoveries of the deep ocean, it was found that an entire array of species have found ways to live in these harsh, cold, and dark environments. 
+
+If one side of the coin is photosynthesis, there exists another side of the coin called Chemosynthesis. 
+
+On the bottom of the ocean (hadalpelagic zone), there is a diverse array of sea life. There are Octopuses, fish, crustaceans, and many small microbes. These microbes are obviously alive, but without anything smaller than them, they have to rely on something other than carnivorous tendencies to survive.
+
+These ecosystems are often found built around something called a hydrothermal vent. "These systems are essentially hot springs on the seafloor, and they provide the basis for life in the deep sea independent of sunlight." (Wilborn) These hot springs are only possible when there is a heat source powerful enough to warm the water. A common place for this to occur is at "Mid-ocean ridges [...] there, tectonic plates move apart below the oceans, forming new seafloor, and magma occurs comparatively shallow." The cold seawater flows through cracks deep into the seafloor and heats up. 
+
+This water will not only heat up to 400 degrees Celsius, but chemically react with the rocks and form a fluid full of nutrients and minerals from the earth. This eventually created a hydrothermal vent (which were only really discovered in the 1970s). Within these fluids, you will find Hydrogen Sulfide, Hydrogen, and Methane. Using these compounds, the microbes are able to metabolize the compound elements and generate energy. Then, these chemoautotrophs form thick mats on the vents where they can access the hydrothermal fluid easily. They are in turn fed on by first order carnivores and are the building blocks for deep sea bioenergy transfer. 
+
+It is worth noting that the processes are remarkably similar as well. If we look at the equation of photosynthesis: **6CO2 + 6H2O → C6H12O6 + 6O2** as opposed to chemosynthesis: **18H2S + 6CO2 + 3O2 → C6H12O6** you will see that the end product is the same without any O2 produced. Also, instead of just carbon dioxide and O2, we have 18 molecules of Hydrogen Sulfide and use no water.
+
+
+Sources:
+https://www.scisnack.com/2020/04/15/the-deep-sea-is-completely-dark-how-does-life-thrive-there-without-photosynthesis/
+https://www.pmel.noaa.gov/eoi/nemo/explorer/concepts/chemosynthesis.html
+https://www.youtube.com/watch?v=BLOUFrncG7E&ab_channel=EVNautilus
+Smil, Energy
