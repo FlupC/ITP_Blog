@@ -6,6 +6,29 @@ description: Solar Prog Energy Class, Spring 2021
 ---
 # Solar Project:
 
+## Update 3 (Week12): CAD Draft, Housing Solar Panel
+
+Before I go into what I have done, I need to go through what I still need to do:
+1. Wireless communication between arduinos (Bluetooth? WiFi?)
+2. LED control using the light data
+3. Fabricate the piece.
+
+The two main things I have done this week are build a housing for my solar circuit and draft the first iteration of the grow light enclosure. The housing is just about finished, but I am waiting for my standoffs to arrive in the mail. They should arrive tomorrow.
+
+![layout](/../assets/energy/solar/layout.jpg)
+![solar panel](/../assets/energy/solar/solarPanel.jpg)
+![layout on wood ](/../assets/energy/solar/layout2.jpg)
+
+Then, I drafted the grow light. This will be done as a prototype build. I am finishing the CAD on it this week so it can be cut by a local shop and back in my hands ASAP. 
+
+![CAD V1](/../assets/energy/solar/3D.png)
+
+This still has 3 more things to figure out:
+1. Widen the ring width to accomodate more soil
+2. How does the acrylic fit into the frame
+3. carve out area for arduino nano
+
+
 ## Update 2 (Week11): Finished Solar Circuit
 
 This week I was able to set up my solar circuit. The arduino can be powered for a long period of time with just about 2 hours of GOOD sunlight. The solar charger works, and I have set up a light sensor that works, but I need to find a new one.
