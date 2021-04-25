@@ -1,7 +1,7 @@
 ---
 path: fab-week4
 date: 2021-04-21T14:43:49.177Z
-title: "Intro to Fabrication: Week 03"
+title: "Intro to Fabrication: Week 04"
 description: Enclosure - Solar Enclosure for week 04
 ---
 # Solar Enclosure
