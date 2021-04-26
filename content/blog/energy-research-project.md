@@ -36,3 +36,15 @@ https://www.scisnack.com/2020/04/15/the-deep-sea-is-completely-dark-how-does-lif
 https://www.pmel.noaa.gov/eoi/nemo/explorer/concepts/chemosynthesis.html
 https://www.youtube.com/watch?v=BLOUFrncG7E&ab_channel=EVNautilus
 Smil, Energy
+
+## Bioluminescence 
+
+Bioluminescence describes the phenomenon of living organisms creating light. It appears primarily in the deep ocean, though humans can experience the phenomenon on the surface through Dinoflagellates (algae) that will produce light when agitated in the sea. They often will glow brighter if they are exposed to a lot of sunlight during the day. 
+
+Before we understand what is actually occurring behind the scenes, it is a good idea to understand why animals will luminesce, and what different kinds exist. 
+
+As we spoke about during our exploration of Chemosynthesis, light does not penetrate all the way to the bottom of the sea. Furthermore, not every frequency of light passes through the same depth. We lose Red very quickly, while green and blue will reach much deeper parts of the water. because of this, a lot of deep sea animals have actually evolved to be red, this makes they incredibly difficult to spot in the water.
+
+in this desolate environment, light is often used to invite specific behavior. Some animals will use light to attract mates, some use it to lure prey, and others use it to protect themselves. Protection via light is fascinating because some animals can shine so bright they can briefly blind predators, or they can use light to "counterilluminate." This is done because, when viewed from below, it is usually easier to make out figures against a slightly lighter surface. In shallower waters, animals like sharks use "countershading" to have lighter undersides. In the deep sea, some animals can use bioluminescence to countershade/counterilluminate themselves. But how do animals actually enable these features?
+
+The basis of all bioluminescence is Luciferin.
