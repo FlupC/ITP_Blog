@@ -24,15 +24,32 @@ If one side of the coin is photosynthesis, there exists another side of the coin
 
 On the bottom of the ocean (hadalpelagic zone), there is a diverse array of sea life. There are Octopuses, fish, crustaceans, and many small microbes. These microbes are obviously alive, but without anything smaller than them, they have to rely on something other than carnivorous tendencies to survive.
 
-These ecosystems are often found built around something called a hydrothermal vent. "These systems are essentially hot springs on the seafloor, and they provide the basis for life in the deep sea independent of sunlight." (Wilborn) These hot springs are only possible when there is a heat source powerful enough to warm the water. A common place for this to occur is at "Mid-ocean ridges [...] there, tectonic plates move apart below the oceans, forming new seafloor, and magma occurs comparatively shallow." The cold seawater flows through cracks deep into the seafloor and heats up. 
+These ecosystems are often found built around something called a hydrothermal vent. "These systems are essentially hot springs on the seafloor, and they provide the basis for life in the deep sea independent of sunlight." (Wilborn) These hot springs are only possible when there is a heat source powerful enough to warm the water. A common place for this to occur is at "Mid-ocean ridges \[...] there, tectonic plates move apart below the oceans, forming new seafloor, and magma occurs comparatively shallow." The cold seawater flows through cracks deep into the seafloor and heats up. 
 
 This water will not only heat up to 400 degrees Celsius, but chemically react with the rocks and form a fluid full of nutrients and minerals from the earth. This eventually created a hydrothermal vent (which were only really discovered in the 1970s). Within these fluids, you will find Hydrogen Sulfide, Hydrogen, and Methane. Using these compounds, the microbes are able to metabolize the compound elements and generate energy. Then, these chemoautotrophs form thick mats on the vents where they can access the hydrothermal fluid easily. They are in turn fed on by first order carnivores and are the building blocks for deep sea bioenergy transfer. 
 
 It is worth noting that the processes are remarkably similar as well. If we look at the equation of photosynthesis: **6CO2 + 6H2O → C6H12O6 + 6O2** as opposed to chemosynthesis: **18H2S + 6CO2 + 3O2 → C6H12O6** you will see that the end product is the same without any O2 produced. Also, instead of just carbon dioxide and O2, we have 18 molecules of Hydrogen Sulfide and use no water.
-
 
 Sources:
 https://www.scisnack.com/2020/04/15/the-deep-sea-is-completely-dark-how-does-life-thrive-there-without-photosynthesis/
 https://www.pmel.noaa.gov/eoi/nemo/explorer/concepts/chemosynthesis.html
 https://www.youtube.com/watch?v=BLOUFrncG7E&ab_channel=EVNautilus
 Smil, Energy
+
+## Bioluminescence
+
+Bioluminescence describes the phenomenon of living organisms creating light. It appears primarily in the deep ocean, though humans can experience the phenomenon on the surface through Dinoflagellates (algae) that will produce light when agitated in the sea. They often will glow brighter if they are exposed to a lot of sunlight during the day. 
+
+Before we understand what is actually occurring behind the scenes, it is a good idea to understand why animals will luminesce, and what different kinds exist. 
+
+As we spoke about during our exploration of Chemosynthesis, light does not penetrate all the way to the bottom of the sea. Furthermore, not every frequency of light passes through the same depth. We lose Red very quickly, while green and blue will reach much deeper parts of the water. because of this, a lot of deep sea animals have actually evolved to be red, this makes they incredibly difficult to spot in the water.
+
+in this desolate environment, light is often used to invite specific behavior. Some animals will use light to attract mates, some use it to lure prey, and others use it to protect themselves. Protection via light is fascinating because some animals can shine so bright they can briefly blind predators, or they can use light to "counterilluminate." This is done because, when viewed from below, it is usually easier to make out figures against a slightly lighter surface. In shallower waters, animals like sharks use "countershading" to have lighter undersides. In the deep sea, some animals can use bioluminescence to countershade/counterilluminate themselves. But how do animals actually enable these features?
+
+The basis of all bioluminescence is Luciferin. Luciferin is a substance that can create light, but not without an enzyme to create a reaction. This enzyme is called Luciferase. The words come from the Latin "Lucifer" which means "light bringer." Additionally, Luciferin and Luciferase are non-scientific terms. This is because a myriad of different chemicals can act as the light-triggering substances. For instance, "the luciferin **coelenterazine** is common in marine bioluminescence. Dinoflagellates that obtain food through **photosynthesis** use a luciferin that resembles chl." 
+
+LUCIFERIN IMAGE
+
+However, the process often requires other elements to catalyze. This can include ATP (Adenosine Triphosphate), which is how many species, including humans, transport energy.
+
+The reason that the explanation of how bioluminescent is so broad is because there are so many different methods and uses for bioluminescence. One of the most interesting cases is the "burglar alarm" response, that led to the [first footage of a giant squid](https://www.ted.com/talks/edith_widder_how_we_found_the_giant_squid).
