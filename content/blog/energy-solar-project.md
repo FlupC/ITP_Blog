@@ -6,7 +6,7 @@ description: Solar Prog Energy Class, Spring 2021
 ---
 # Solar Project:
 
-FINAL IMAGE
+![Final](/../assets/energy/solar/final/final_3_4.jpg)
 
 ### Concept
 
@@ -30,11 +30,11 @@ For this project, there are two circuits involved. Neither are particularly comp
 
 First is the solar circuit. It is simple. It uses an adafruit solar charger, a 1300mAh 3.7V battery, and a 6V .3A solar panel. The solar panel charges the battery, which in turn powers the Arduino. 
 
-IMAGE
+![Solar Circuit](/../assets/energy/solar/final/solarCharge_bb.png)
 
 The second one receives the light data from the Arduino IoT Cloud, then uses a 12V power supply (plugged into Vin) to control a grow light LED strip. Using a transistor (TIP120), we are able to supply the current necessary to handle adjustment of brightness
 
-IMAGE
+![light Circuit](/../assets/energy/solar/final/GrowLight_bb.png)
 
 ### Code
 
@@ -176,7 +176,7 @@ void onBrightnessChange() {
 
 For this project, I used Fusion 360 to create a model that would be used for this whole project
 
-IMAGE
+![light Circuit](/../assets/energy/solar/final/CAD.PNG)
 
 There are a lot of changes in the final project to this, but I think overall the changes make it more aesthetically sensible. So, I am going to use Fusion to eventually update the design.
 
@@ -194,15 +194,25 @@ The first thing I had to do was drill the holes that were printed with a 1/16 dr
 
 Next, I laser cut the Acrylic sides. After testing some adhesives, I discovered that super glue, then silicone grout would be the most secure and water-tight. So, I taped up the acrylic to stop any visible bleed into the acrylic.
 
-IMAGE
+![Tape](/../assets/energy/solar/final/tapedrings.jpg)
 
 I adhered the acrylic, then mounted the sides.
 
-IMAGE
+![Acrylic in Ring](/../assets/energy/solar/final/acrylicInRing.jpg)
+
+![Rings attached](/../assets/energy/solar/final/rings_combined.jpg)
 
 Next, I used a box from the container store as the base. I secured a bolt, the circuit, and the power supply within it then mounted the lights. After that, I was all finished!!
 
-FINAL PHOTOS
+![Final Glow](/../assets/energy/solar/final/finalGlow.jpg)
+
+![Ring Front](/../assets/energy/solar/final/ringFront.jpg)
+
+![Input Slot](/../assets/energy/solar/final/inputSlot.jpg)
+
+![Close Up](/../assets/energy/solar/final/closeUp.jpg)
+
+![Ring 3/4](/../assets/energy/solar/final/final_3_4.jpg)
 
 ## Update 3 (Week12): CAD Draft, Housing Solar Panel
 
