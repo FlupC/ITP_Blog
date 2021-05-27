@@ -182,6 +182,7 @@ For this project, I used Fusion 360 to create a model that would be used for thi
 
 ![Base Schematic](/../assets/cad/final/base.png)
 
+
 ![Ring Schematic](/../assets/cad/final/ring.png)
 
 There are a lot of changes in the final project to this, but I think overall the changes make it more aesthetically sensible. So, I am going to use Fusion to eventually update the design.
