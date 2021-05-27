@@ -6,9 +6,9 @@ description: Multiplication - Essential Oil Diffuser for week 02
 ---
 # Essential Oil Diffuser
 
-[FINAL IMAGE]
+![FINAL IMAGE](/../assets/fab/week02/finished.png)
 
-Description, inspiration
+An essential oil diffuser crafted by burning a candle underneath a 100ml beaker. These are popular on platforms like Etsy, this is my take on the product. 
 
 ## Rods and Beakers
 
